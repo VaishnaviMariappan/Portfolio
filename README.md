@@ -280,7 +280,10 @@ h2
 ```
 
 ## OUTPUT:
-![website](https://github.com/VaishnaviMariappan/Portfolio/assets/94169913/385bcd39-f31f-4e78-b938-d13536a37d70)
+![home](https://github.com/VaishnaviMariappan/Portfolio/assets/94169913/f58f0fa6-7332-4230-b7bd-8dd3c4c43e57)
+![skill](https://github.com/VaishnaviMariappan/Portfolio/assets/94169913/fa65b7ee-3d48-4715-ac8d-ea1862205e5d)
+![contact](https://github.com/VaishnaviMariappan/Portfolio/assets/94169913/a9b59870-058e-4d34-889e-2a7ceb851701)
+
 
 ## RESULT:
 
